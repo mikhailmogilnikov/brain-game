@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mikhailmogilnikov/frontend-project-44.git"
@@ -15,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/mikhailmogilnikov/frontend-project-44/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/mikhailmogilnikov/frontend-project-44#readme"
+
 }

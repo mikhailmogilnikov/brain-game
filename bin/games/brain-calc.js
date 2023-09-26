@@ -25,18 +25,10 @@ const generateTask = () => {
   return { task, correctAnswer };
 };
 
-const gameCalc = (user) => {
-  const maxAttempts = 3;
-  for (let i = 0; i < maxAttempts; i += 1) {
-    const { task, correctAnswer } = generateTask();
-    const result = game(task, correctAnswer);
-    if (!result) {
-      return null;
-    }
-  }
-  return console.log(`Congratulations, ${user}!`);
+const startCalcGame = () => {
+  const name = greeting();
+  console.log('What is the result of the expression?');
+  game(name, generateTask);
 };
 
-const name = greeting();
-console.log('What is the result of the expression?');
-gameCalc(name);
+startCalcGame();

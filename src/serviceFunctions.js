@@ -1,4 +1,4 @@
-const randomNum = () => Math.floor(Math.random() * 30);
+const randomNum = () => Math.floor(Math.random() * 40 + 1);
 
 const isEven = (number) => number % 2 === 0;
 

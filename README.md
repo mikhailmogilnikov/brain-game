@@ -1,5 +1,5 @@
 # brain-game
-Small kit of logic-based games in terminal!
+Small kit of math-based games in terminal!
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/mikhailmogilnikov/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/mikhailmogilnikov/frontend-project-44/actions)

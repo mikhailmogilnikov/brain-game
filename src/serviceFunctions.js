@@ -1,5 +1,7 @@
 const randomNum = () => Math.floor(Math.random() * 30);
 
+const isEven = (number) => number % 2 === 0;
+
 const randomOperand = () => {
   const number = randomNum();
   let result;
@@ -13,4 +15,4 @@ const randomOperand = () => {
   return result;
 };
 
-export { randomNum, randomOperand };
+export { randomNum, randomOperand, isEven };

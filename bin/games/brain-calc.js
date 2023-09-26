@@ -4,8 +4,9 @@ import game from '../../src/index.js';
 import { randomNum, randomOperand } from '../../src/serviceFunctions.js';
 
 const gameCalc = (user) => {
+  const maxAttempts = 3;
   let correctAnswer;
-  for (let i = 0; i < 3; i += 1) {
+  for (let i = 0; i < maxAttempts; i += 1) {
     const a = randomNum();
     const b = randomNum();
     const operand = randomOperand();

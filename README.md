@@ -18,3 +18,8 @@ Calculate the result of basic mathematical operations.
 Find the greatest common divisor of given numbers.
 
 [![asciicast](https://asciinema.org/a/f7HQbQa2BqK9UIRTt8jYJJ9ev.svg)](https://asciinema.org/a/f7HQbQa2BqK9UIRTt8jYJJ9ev)
+
+## brain-progression
+Find missing number in the progression.
+
+[![asciicast](https://asciinema.org/a/QgUPQNe1mC5zvp471at7ickUd.svg)](https://asciinema.org/a/QgUPQNe1mC5zvp471at7ickUd)

@@ -21,7 +21,7 @@ const generateTask = () => {
   const numsStorage = generateNumsStorage(firstNum, step);
   const correctAnswer = numsStorage[searchNum];
   numsStorage[searchNum] = '..';
-  const task = numsStorage.join(', ');
+  const task = numsStorage.join(' ');
   return { task, correctAnswer };
 };
 

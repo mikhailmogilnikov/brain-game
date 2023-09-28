@@ -4,6 +4,20 @@ Small kit of math-based games in terminal!
 [![Actions Status](https://github.com/mikhailmogilnikov/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/mikhailmogilnikov/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/5a8789c29918c0bbde84/maintainability)](https://codeclimate.com/github/mikhailmogilnikov/frontend-project-44/maintainability)
 
+## How to install?
+Clone this repository on your device, open clonned folder in **terminal** and enter this command:
+`make install`
+
+After installing you can use all available commands.
+```
+brain-games
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
+```
+
 ## brain-even
 Answer "yes" if the number is even, otherwise answer "no".
 

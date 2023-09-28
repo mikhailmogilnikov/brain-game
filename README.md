@@ -23,3 +23,8 @@ Find the greatest common divisor of given numbers.
 Find missing number in the progression.
 
 [![asciicast](https://asciinema.org/a/QgUPQNe1mC5zvp471at7ickUd.svg)](https://asciinema.org/a/QgUPQNe1mC5zvp471at7ickUd)
+
+## brain-prime
+Answer "yes" if given number is prime. Otherwise answer "no".
+
+[![asciicast](https://asciinema.org/a/5MX3QQ8dYwfnduQG8b7t2R2UT.svg)](https://asciinema.org/a/5MX3QQ8dYwfnduQG8b7t2R2UT)

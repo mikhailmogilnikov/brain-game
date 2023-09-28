@@ -5,10 +5,9 @@ Small kit of math-based games in terminal!
 [![Maintainability](https://api.codeclimate.com/v1/badges/5a8789c29918c0bbde84/maintainability)](https://codeclimate.com/github/mikhailmogilnikov/frontend-project-44/maintainability)
 
 ## How to install?
-Clone this repository on your device, open clonned folder in **terminal** and enter this command:
-`make install`
+Clone this repository on your device, open clonned folder in **terminal** and enter `make install`.
 
-After installing you can use all available commands.
+After installing you can use all available commands:
 ```
 brain-games
 brain-even
@@ -17,6 +16,11 @@ brain-gcd
 brain-progression
 brain-prime
 ```
+
+## brain-games
+Basic command to test install status of a program.
+
+[![asciicast](https://asciinema.org/a/9h8xT9sE0mIUDCqIHj0koOgx9.svg)](https://asciinema.org/a/9h8xT9sE0mIUDCqIHj0koOgx9)
 
 ## brain-even
 Answer "yes" if the number is even, otherwise answer "no".

@@ -1,4 +1,4 @@
-# brain-game
+# brain-games
 Small kit of math-based games in terminal!
 
 [![Actions Status](https://github.com/mikhailmogilnikov/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/mikhailmogilnikov/frontend-project-44/actions)
